@@ -1,5 +1,5 @@
 # vue_test
-
+.
 ## Project setup
 ```
 npm install
